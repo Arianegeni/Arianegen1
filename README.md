@@ -7,9 +7,13 @@ I’m fueled by curiosity and a passion for learning. Currently completing my de
  🚀 Tools and Technologies
 
 Front-end: HTML5, CSS3, JavaScript, TypeScript
+
 Back-end: Node.js, Python, 
+
 Databases: MySQL, PgAdmin, MongoDB
+
 DevOps: Docker, GitHub Actions
+
 Others: Firebase, AWS, Git
 
  🌱 Currently Learning  
